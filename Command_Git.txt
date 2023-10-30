@@ -3,3 +3,6 @@ git push origin main --   manda i gile nella repository remota
 git pull -- scarica i cambiamenti della repo remota
 
 git rm (Nome File) -- per rimuovere file
+
+git push origin -u (Nome del file) -- manda il nuovo branch alla repository remota
+
